@@ -73,5 +73,8 @@ class TagSeeder extends Seeder
         Tag::create([
             'name'=>'Ulubione'
         ]);
+        Tag::create([
+            'name'=>'Ekologia'
+        ]);
     }
 }
