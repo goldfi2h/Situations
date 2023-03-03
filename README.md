@@ -1,6 +1,6 @@
 ## About the project
 First idea:
-![image](https://user-images.githubusercontent.com/103048667/222416746-db1c84a5-7ff2-43ba-8bff-b654d8b9483c.png)
+![Zrzut ekranu 2023-03-02 154701](https://user-images.githubusercontent.com/103048667/222687809-b4f0efc4-e68d-4d1a-b9f8-d0b0fe3e2843.jpg)
 
 ## Laravel Sponsors
 
