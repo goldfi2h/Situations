@@ -293,5 +293,61 @@ class ExpansionSeeder extends Seeder
             'entry_id'=>'TS4',
             'name'=>'Kompaktowe wnętrza'
         ]);
+        Expansion::create([
+            'entry_id'=>'TS4',
+            'name'=>'Kuchnia na wypasie'
+        ]);
+        Expansion::create([
+            'entry_id'=>'TS4',
+            'name'=>'Małe dzieci'
+        ]);
+        Expansion::create([
+            'entry_id'=>'TS4',
+            'name'=>'Moschino'
+        ]);
+        Expansion::create([
+            'entry_id'=>'TS4',
+            'name'=>'Mój pierwszy zwierzak'
+        ]);
+        Expansion::create([
+            'entry_id'=>'TS4',
+            'name'=>'Perfekcyjne patio'
+        ]);
+        Expansion::create([
+            'entry_id'=>'TS4',
+            'name'=>'Pokój dzieciaków'
+        ]);
+        Expansion::create([
+            'entry_id'=>'TS4',
+            'name'=>'Romantyczny ogród'
+        ]);
+        Expansion::create([
+            'entry_id'=>'TS4',
+            'name'=>'Styl dawnych lat'
+        ]);
+        Expansion::create([
+            'entry_id'=>'TS4',
+            'name'=>'Upiorności'
+        ]);
+        Expansion::create([
+            'entry_id'=>'TS4',
+            'name'=>'Wieczór na kręgielni'
+        ]);
+        Expansion::create([
+            'entry_id'=>'TS4',
+            'name'=>'Wielkie pranie'
+        ]);
+        Expansion::create([
+            'entry_id'=>'TS4',
+            'name'=>'Włóczkowe historie'
+        ]); 
+        Expansion::create([
+            'entry_id'=>'TS4',
+            'name'=>'Zabawa na podwórku'
+        ]);
+        Expansion::create([
+            'entry_id'=>'TS4',
+            'name'=>'Zjawiska paranormalne'
+        ]);
     }
 }
