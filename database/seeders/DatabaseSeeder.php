@@ -16,6 +16,7 @@ class DatabaseSeeder extends Seeder
             EntrySeeder::class,
             TagSeeder::class,
             ExpansionSeeder::class,
+            SituationSeeder::class,
     ]);
         
         // \App\Models\User::factory(10)->create();

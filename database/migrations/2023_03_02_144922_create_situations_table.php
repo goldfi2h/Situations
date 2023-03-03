@@ -15,9 +15,9 @@ return new class extends Migration
             $table->id();
             $table->string('name');
             $table->longText('description');
-            $table->longText('bonus');
-            $table->longText('neutral');
-            $table->longText('punishment');
+            $table->longText('bonus')->nullable();
+            $table->longText('neutral')->nullable();
+            $table->longText('punishment')->nullable();
             $table->timestamps();
         });
     }
