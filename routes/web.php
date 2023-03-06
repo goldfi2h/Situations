@@ -1,5 +1,7 @@
 <?php
 
+use App\Http\Controllers\SituationController;
+use App\Models\Situation;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -14,5 +16,20 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('welcome', [
+        'heading' => 'All situations',
+        'situations' => Situation::all()
+    ]);
+});
+Route::get('/test', function () {
+    return view('test');
+});
+Route::get('/about', function () {
+    return view('about');
+});
+
+Route::get('/situation', function () {
+    return view('situation', [
+        'situation' =>SituationController::findme(),
+    ]);
 });

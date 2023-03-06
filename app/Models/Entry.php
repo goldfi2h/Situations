@@ -6,6 +6,7 @@ use App\Models\Situation;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Relations\BelongsToMany;
+use Illuminate\Database\Eloquent\Relations\HasMany;
 
 class Entry extends Model
 {
@@ -20,6 +21,10 @@ class Entry extends Model
         'id',
         'name',
     ];
+    public function expansions(): HasMany
+    {
+        return $this->hasMany(Expansion::class);
+    }
     public function situations(): BelongsToMany
     {
         return $this->belongsToMany(Situation::class);
