@@ -28,8 +28,9 @@ Route::get('/about', function () {
     return view('about');
 });
 
-Route::get('/situation', function () {
-    return view('situation', [
+Route::get('/situation4', function () {
+    return view('situation4', [
         'situation' =>SituationController::findme(),
+        'entriesSit'=>SituationController::findentry('situation'),
     ]);
 });

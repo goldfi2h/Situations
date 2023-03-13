@@ -20,6 +20,8 @@ class Situation extends Model
 
     public function entries(): BelongsToMany
     {
-        return $this->belongsToMany(Entry::class);
+        return $this->belongsToMany(Entry::class)
+        ->withPivot(['true_description'])
+        ->as('customData');
     }
 }

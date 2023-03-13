@@ -1,0 +1,310 @@
+situation_id;entry_id;true_description
+1;TS4;
+2;TS4;
+3;TS4;
+4;TS4;
+5;TS4;
+6;TS4;
+7;TS4;
+8;TS4;
+9;TS4;
+10;TS4;
+11;TS4;
+12;TS4;
+13;TS4;
+14;TS4;
+15;TS4;
+16;TS4;
+17;TS4;
+18;TS4;
+19;TS4;
+20;TS4;
+21;TS4;
+22;TS4;
+23;TS4;
+24;TS4;
+25;TS4;
+26;TS4;
+27;TS4;
+28;TS4;
+29;TS4;
+30;TS4;
+31;TS4;
+32;TS4;
+33;TS4;
+34;TS4;
+35;TS4;
+36;TS4;
+37;TS4;
+38;TS4;
+39;TS4;
+40;TS4;
+41;TS4;
+42;TS4;
+43;TS4;
+44;TS4;
+45;TS4;
+46;TS4;
+47;TS4;
+48;TS4;
+49;TS4;
+50;TS4;
+51;TS4;
+52;TS4;
+53;TS4;
+54;TS4;
+55;TS4;
+56;TS4;
+57;TS4;
+58;TS4;
+59;TS4;
+60;TS4;
+61;TS4;
+62;TS4;
+63;TS4;
+64;TS4;
+65;TS4;
+66;TS4;
+67;TS4;
+68;TS4;
+69;TS4;
+70;TS4;
+71;TS4;
+72;TS4;
+73;TS4;
+74;TS4;
+75;TS4;
+76;TS4;
+77;TS4;
+78;TS4;
+79;TS4;
+80;TS4;
+81;TS4;
+82;TS4;
+83;TS4;
+84;TS4;
+85;TS4;
+86;TS4;
+87;TS4;
+88;TS4;
+89;TS4;
+90;TS4;
+91;TS4;
+92;TS4;
+93;TS4;
+94;TS4;
+95;TS4;
+96;TS4;
+97;TS4;
+98;TS4;
+99;TS4;
+100;TS4;
+101;TS4;
+102;TS4;
+103;TS4;
+104;TS4;
+105;TS4;
+106;TS4;
+107;TS4;
+108;TS4;
+109;TS4;
+110;TS4;
+111;TS4;
+112;TS4;
+113;TS4;
+114;TS4;
+1;TS3;
+2;TS3;
+3;TS3;
+5;TS3;Sim zmienia pragnienie życiowe
+6;TS3;Sim jeśli ma wystarczająco punktów szczęcia życiowego lub może kupić maszynę mózgu: zmienia 1 cechę,
+7;TS3;
+8;TS3;Sim jedzie na wakacje
+9;TS3;
+10;TS3;
+11;TS3;
+12;TS3;
+15;TS3;Dziecko uczy się malowania
+17;TS3;
+18;TS3;Sim uczy się rzeźbiarstwa rzeźbiąc tylko w glinie (przynajmniej przez jakiś czas)
+19;TS3;Jeden rodzic lub obydwoje nie mają dużo czasu na zajmowanie się dzieckiem i to musi samo uczyć się umiejętności przez 2 dni/kilka dni
+20;TS3;Kupujesz małemu dziecku lampkę nocną, lub małe dziecko śpi z rodzicami (przez wstawienie łóżeczka do pokoju rodziców lub 1 łóżka do pokoju dziecka)
+21;TS3;Cała rodzina kupuje, dla każdego jej członka, MULTITAB
+22;TS3;
+23;TS3;
+26;TS3;Dziecko traci przyjaźń ze wszystkimi
+27;TS3;
+28;TS3;
+29;TS3;Sim przeprowadza się do nowego miasta
+30;TS3;
+32;TS3;
+33;TS3;
+34;TS3;
+35;TS3;
+36;TS3;
+37;TS3;
+38;TS3;Sim je tylko swoją ulubioną potrawę przez kilka dni
+39;TS3;
+40;TS3;
+41;TS3;
+42;TS3;
+44;TS3;
+45;TS3;
+46;TS3;
+47;TS3;Rodzic w ogóle nie interesuje się co robi dziecko(może tylko podać jedzenie ale nie w siedzisku) dziecko ma nie uczyć się żadnych umiejętności
+48;TS3;Dziecko dostaje zestaw piekarski, i/lub je tylko swoje wypieki
+49;TS3;
+50;TS3;
+51;TS3;
+52;TS3;Pójdź z losowym simem np. z portalu randkowego, na randkę
+54;TS3;
+55;TS3;
+56;TS3;
+57;TS3;
+58;TS3;
+59;TS3;Sim jest porwany przez kosmitów i nie wiadomo co się z nim stało, czy się kiedyś odnajdzie? (Wyrzuć tego sima z domu)
+60;TS3;Co oni mówią za moimi plecami? Na pewno coś kombinują, już ja to wiem! Sim staje się detektywem.
+61;TS3;
+62;TS3;
+64;TS3;
+65;TS3;
+66;TS3;
+67;TS3;Sim wpłaca dowolną/losową sumę na akcję charytatywną (na skrzynce pocztowej)
+68;TS3;
+69;TS3;
+70;TS3;
+71;TS3;Prawdziwi kumple chcą wyjść na piwo do baru i pooglądać tam mecz, można też zwyczajnie pójść na mecz na stadion
+72;TS3;
+73;TS3;
+74;TS3;Pozbieraj owady z okolicy
+75;TS3;
+76;TS3;
+77;TS3;
+78;TS3;
+79;TS3;Zacznij dowolną kolekcję: ryb (w akwarium), owadów, gryzoni, ptaków albo jaszczurek
+80;TS3;Urządź przyjęcie polegające na oglądaniu filmów (jeśli masz maszynę do robienia popcornu to możesz to wykorzystać)
+81;TS3;
+82;TS3;Sim wpłaca na planowanie przyszłości
+83;TS3;
+85;TS3;
+86;TS3;
+87;TS3;Sim staje się syreną BONUS: jeśli odwiedzi Isla Paradiso lub Sunlit Tides
+88;TS3;
+89;TS3;
+91;TS3;
+92;TS3;
+93;TS3;
+94;TS3;
+95;TS3;Ucz się charyzmy i powitaj romantycznie jakiegoś innego sima (nie musisz z tym simem tworzyć związku)
+96;TS3;
+97;TS3;
+98;TS3;
+99;TS3;Sim nie wychodzi z domu tak długo, że dostaje nastrójnik o nie wychodzeniu z domu
+100;TS3;
+101;TS3;
+102;TS3;
+103;TS3;
+104;TS3;
+105;TS3;Sim robi sobie cosplay (może to być strój z akcesoriów Film, albo spróbuj odtworzyć postać z innej gry, filmu, książki)
+106;TS3;Sim buduje lub zleca zbudowanie robota (Simbota lub Plumbota) (lub sim korzysta z nagrody szczęścia życiowego - Najlepszy przyjaciel), który będzie się nazywać tak samo jak on i będzie mieć takie same cechy (NRAAS można ustawić robota jako bliźniaka sima, albo w skrajnych przypadkach sima tym robotem zastąpić)
+107;TS3;
+108;TS3;Sim popada w depresję, usuwaj wszelkie radosne nastrójniki, 20% szans, że po turze mu nie przejdzie i potrzebuje pomocy
+109;TS3;
+112;TS3;Wybierz nową ulubioną muzykę dla sima (np. przez nagrodę szczęścia życiowego), a potem słuchaj jej przez kilka dni
+114;TS3;
+1;TS2;
+2;TS2;
+3;TS2;Sim nie jest bardzo ambitny, nie wchodzi na wyższy poziom niż 3
+5;TS2;
+6;TS2;
+7;TS2;
+8;TS2;Twoja rodzina jedzie na wakacje do lasu, mogą kupić tam domek wakacyjny
+9;TS2;
+10;TS2;
+11;TS2;
+12;TS2;
+15;TS2;Dziecko uczy się malowania
+17;TS2;
+18;TS2;Sim uczy się garncarstwa
+19;TS2;
+20;TS2;Kupujesz małemu dziecku lampkę nocną, lub małe dziecko śpi z rodzicami (przez wstawienie łóżeczka do pokoju rodziców lub 1 łóżka do pokoju dziecka)
+21;TS2;Cała rodzina kupuje, dla każdego jej członka, telefon komórkowy
+22;TS2;
+23;TS2;
+26;TS2;Dziecko traci przyjaźń ze wszystkimi
+27;TS2;
+28;TS2;
+29;TS2;
+30;TS2;
+32;TS2;
+33;TS2;
+34;TS2;
+35;TS2;
+36;TS2;
+37;TS2;
+38;TS2;
+39;TS2;
+40;TS2;
+42;TS2;
+44;TS2;Rodzic szuka rodziny, która ma dzieci i zaprasza ich wraz z dzieckiem, dzieci obu rodzin mają się w miarę poznać
+45;TS2;
+46;TS2;
+47;TS2;Dziecko dostaje najniższy poziom aspiracji i musi samo się sobą zająć (rodzic w ogóle się nim nie interesuje)
+48;TS2;Dziecko dostaje zestaw piekarski, i/lub je tylko swoje wypieki
+49;TS2;
+50;TS2;
+51;TS2;
+52;TS2;Idź na parcelę publiczną i rozejrzyj się za simem, który najbardziej podoba się twojemu simowi - umów się z tym simem na randkę
+53;TS2;
+54;TS2;Dowolny sim tworzy klub który zrzesza miłośników techniki (można zbudować piwnicę i zrobić by wyglądali jak stereotypowi programiści z piwnicy z lat 80)
+55;TS2;
+56;TS2;
+57;TS2;
+58;TS2;
+59;TS2;Sim jest porwany przez kosmitów i nie wiadomo co się z nim stało, czy się kiedyś odnajdzie? (Przenieś tego sima do nie wprowadzonych) - odnaleźć można tego sima, gdy znajdzie się go na mieście lub ktoś przyprowadzi go z pracy, można też napisać własny scenariusz
+60;TS2;Co oni mówią za moimi plecami? Na pewno coś kombinują już ja to wiem. Sim zatrudnia się w karierze szpiega
+61;TS2;
+62;TS2;
+63;TS2;
+64;TS2;
+65;TS2;
+66;TS2;
+67;TS2;Charity
+68;TS2;
+69;TS2;
+70;TS2;
+71;TS2;Prawdziwi kumple chcą wyjść na piwo do baru i pooglądać tam mecz
+72;TS2;Sim zasadza warzywa lub kupuje drzewko owocowe, by przygotować świecące się danie (żadnych ryb!)
+73;TS2;
+74;TS2;Zacznij kolekcję owadów
+75;TS2;
+76;TS2;
+78;TS2;Miej taki sam samochód jak sąsiad
+79;TS2;Kup mrówkarium
+80;TS2;Urządź przyjęcie polegające na oglądaniu filmów
+81;TS2;Spróbuj dać się okraść szarlatanowi
+83;TS2;
+85;TS2;
+86;TS2;
+88;TS2;
+89;TS2;
+91;TS2;
+92;TS2;Zacznij się uczyć losowej umiejętności
+93;TS2;
+94;TS2;
+96;TS2;
+97;TS2;
+98;TS2;
+99;TS2;
+100;TS2;
+101;TS2;
+102;TS2;
+103;TS2;Idź na parcelę publiczną i zaprzyjaźnij się
+104;TS2;
+105;TS2;Sim robi sobie cosplay (może to być gotowy strój, albo spróbuj odtworzyć postać z innej gry, filmu, książki)
+106;TS2;Sim buduje lub zleca zbudowanie robota, który będzie się nazywać tak samo jak on i będzie mieć takie same cechy
+107;TS2;
+108;TS2;Sim popada w depresję, ustaw najniższy wskaźnik aspiracji, jeśli po turze mu nie przejdzie (będzie wciąż mieć czerwony wskaźnik) to potrzebuje pomocy
+109;TS2;
+112;TS2;
+114;TS2;

@@ -22,6 +22,7 @@ return new class extends Migration
                 ->constrained('entries')
                 ->onUpdate('cascade')
                 ->onDelete('cascade');
+            $table->longText('true_description')->default('0');
             $table->timestamps();
         });
     }

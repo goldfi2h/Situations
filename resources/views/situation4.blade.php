@@ -68,10 +68,19 @@
               </div>
               <h1>{{$situation['name']}}</h1>
             <p>
+              @if ({{}})
+                  
+              @else
+                  
+              @endif
                 {{$situation['description']}}
+                <br>
+                {{$entriesSit}}
             </p>
-
+            
           </div>
+          <span><h2>Bonus</h2>
+            <p>{{$situation['bonus']}}</p></span>
         </div>
         <div class="col-md-6">
           <div class="img-box">
