@@ -30,7 +30,8 @@ Route::get('/about', function () {
 
 Route::get('/situation4', function () {
     return view('situation4', [
+        'random'=>SituationController::newID(),
         'situation' =>SituationController::findme(),
-        'entriesSit'=>SituationController::findentry('situation'),
+    //    'entriesSit'=>SituationController::findentry(SituationController::newID()),
     ]);
 });

@@ -62,20 +62,19 @@
               </h2>
             </div>
             <div class="nextLos">
-                <a href="situation">
+                <a href="situation4">
                   Wylosuj następną!
                 </a>
               </div>
               <h1>{{$situation['name']}}</h1>
             <p>
-              @if ({{}})
+              {{-- @if ({{}})
                   
               @else
                   
-              @endif
+              @endif --}}
                 {{$situation['description']}}
-                <br>
-                {{$entriesSit}}
+                {{-- {{$entriesSit}} --}}
             </p>
             
           </div>

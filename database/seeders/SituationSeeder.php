@@ -20,11 +20,11 @@ class SituationSeeder extends Seeder
         while (($data = fgetcsv($csvFile, 2000, ";")) !== FALSE) {
             if (!$firstline) {
                 Situation::create([
-                    'name' => $data['1'],
-                    'description' => $data['2'],
-                    'bonus'=> $data['3'],
-                    'neutral' => $data['4'],
-                    'punishment'=> $data['5'],
+                    'name' => $data['0'],
+                    'description' => $data['1'],
+                    'bonus'=> $data['2'],
+                    'neutral' => $data['3'],
+                    'punishment'=> $data['4'],
                 ]);    
             }
             $firstline = false;
