@@ -25,6 +25,7 @@ class Entry extends Model
     {
         return $this->hasMany(Expansion::class);
     }
+
     public function situations(): BelongsToMany
     {
         return $this->belongsToMany(Situation::class);
